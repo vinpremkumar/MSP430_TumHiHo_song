@@ -44,8 +44,9 @@ By controlling the frequency at which the output Pins of MSP430 are turned off a
     • By adding filters and reverse engineering, we can use it as a frequency detector
     
 # CIRCUIT DIAGRAM:
-    ![circuit design](https://user-images.githubusercontent.com/49431830/140953399-c383da6d-a52d-46f2-969f-5ec258320e14.png)
     
+    ![circuit design](https://user-images.githubusercontent.com/49431830/140953609-9781fd34-2188-49ac-80ad-c5cbfdd6eade.jpg)
+
 # MANUSCRIPT:    
    
 ![mini project - music using micro controller(tum hi ho)](https://user-images.githubusercontent.com/49431830/140953327-15c1bdb6-d242-4970-a637-49645ae40cb8.jpg)
