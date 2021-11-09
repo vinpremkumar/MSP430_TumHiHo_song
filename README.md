@@ -1,5 +1,6 @@
 # MSP430_TumHiHo_song
 By controlling the frequency at which the output Pins of MSP430 are turned off and on, we can make music. This mini-project demonstrates how to plug msp430 to a speaker and make it since Tum Hi Ho (an Indian song)
+
 **GENRAL DESCRIPTION:**
     • Music is generally analog sinusoidal waves
     • But since we cannot create sine waves using digital microcontroller, we use an alternative square wave. 
@@ -15,10 +16,12 @@ By controlling the frequency at which the output Pins of MSP430 are turned off a
     • Thus to match the impedance and to give the maximum amplified output to the speaker, we use a darlington pair amplifier IC - L293d.
     • Different frequencies with their respective timing in the software.
     • Thus we get the required song output.
+
 **IMPLEMENTATIONS:**
     • This mini project shows how to control frequency variation using a micro controller.
     • This can be implemented in non-coherent detection where the local oscillator has to auto tune to the required frequency.
     • This also acts as the base for voltage controlled oscillator
     • By adding filters and reverse engineering, we can use it as a frequency detector
+
 **CONCLUSION:**
     • The mini project helps us gain knowledge in frequency control which has in depth implication in wireless technology and tuning.
