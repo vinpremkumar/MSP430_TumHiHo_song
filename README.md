@@ -45,7 +45,7 @@ By controlling the frequency at which the output Pins of MSP430 are turned off a
     
 # CIRCUIT DIAGRAM:
     
-    ![circuit design](https://user-images.githubusercontent.com/49431830/140953609-9781fd34-2188-49ac-80ad-c5cbfdd6eade.jpg)
+![circuit design](https://user-images.githubusercontent.com/49431830/140953821-2f4e77ca-dd2b-4598-a14c-cc2c0b73ed9c.jpg)
 
 # MANUSCRIPT:    
    
